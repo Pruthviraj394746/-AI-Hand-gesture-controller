@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+pyautogui
+torch
+torchvision
+scikit-learn
+pycaw
+comtypes
+screen-brightness-control
+PyQt5
+pandas
+numpy
